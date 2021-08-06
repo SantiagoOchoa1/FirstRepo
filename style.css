@@ -7,3 +7,12 @@ body {
   font-family: "Kaushan Script", cursive;
   font-size: 3rem;
 }
+
+.title {
+  font-family: PermanentMarker, cursive;
+}
+
+.img_ {
+  width: 40%;
+  height: auto;
+}
